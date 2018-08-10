@@ -18,4 +18,5 @@ cd ../domainify
 go build -o ../domainfinder/lib/domainify
 
 echo build available
+cd ../available
 go build -o ../domainfinder/lib/available
